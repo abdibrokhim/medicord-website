@@ -58,8 +58,8 @@ export default function Home()
             
             <Image
               src='https://iili.io/JWi9Zox.png'
-              width={1000}
-              height={1000}
+              width={500}
+              height={500}
               alt="Brain MRI Analysis"
               className="img-shadow"
               title="Brain MRI Analysis"
@@ -71,8 +71,8 @@ export default function Home()
           <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
             <Image
               src='https://iili.io/JWPpkRs.png'
-              width={1000}
-              height={1000}
+              width={500}
+              height={500}
               alt="Advanced Image Processing"
               className="img-shadow"
               title="Advanced Image Processing"
@@ -93,7 +93,7 @@ export default function Home()
           <div className="text-center flex flex-col gap-6 py-32 h-full">
             <div className="w-full relative z-10"> 
               <div className="leading-none z-10 text-[54px] text-[#1e1e1e] font-bold"> 
-                <span>INTERACTIVE, SECURE, ENGAGING</span> 
+                <span>INTERACTIVE, SECURE, SUPPORTIVE</span> 
               </div> 
             </div>
             <div className="w-full"> <span className="flex flex-col gap-4 text-[#1e1e1e] text-[20px]">
