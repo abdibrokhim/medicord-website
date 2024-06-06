@@ -2,7 +2,7 @@ import './globals.css';
 import Image from "next/image"; 
 
 // @ts-ignore
-import logo from '../app/assets/Medicord_black_logo.png';
+import logo from '../app/assets/comed_logo_black.png';
 
 
 export default function HeaderPrimary()
@@ -23,7 +23,7 @@ export default function HeaderPrimary()
               </a>
             </div>
             <div className="flex items-center gap-4">
-              <a className="cta-top flex items-center rounded-md hover:opacity-80 active:opacity-60 active:scale-95 transition-all text-white text-[14px] px-4 h-[40px] shrink-0 grow-0 btn hover:opacity-80 !bg-[#1e1e1e] !text-white !bg-none !text-[14px] px-4 !h-[44px]" href="/contact">
+              <a className="cta-top flex items-center rounded-md hover:opacity-80 active:opacity-60 active:scale-95 transition-all text-white text-[14px] px-4 h-[40px] shrink-0 grow-0 btn hover:opacity-80 !bg-[#1e1e1e] !text-white !bg-none !text-[14px] px-4 !h-[44px]" href="https://abdibrokhim.vercel.app">
                 <p className="whitespace-nowrap">Contact us</p>
               </a>
             </div>
