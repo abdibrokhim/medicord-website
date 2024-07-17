@@ -5,7 +5,7 @@ import "../globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CoMed Inc. - Careers",
+  title: "CoMed Inc. - Join Us",
   description: "Millions face challenges accessing quality healthcare, particularly when it comes to complex diagnoses like brain disorders. Lengthy wait times, potential for human error, and limited access to specialists hinder timely and accurate care. We're driven by a commitment to developing technological innovations that enhance the accuracy and efficiency of medical diagnostics, ultimately leading to improved patient care and outcomes. We envision a future where a supportive and interconnected healthcare community thrives, seamlessly connecting patients, medical professionals, and institutions to foster collaboration, knowledge sharing, and a patient-centric approach to healthcare.",
 };
 
