@@ -5,8 +5,8 @@ import "../../globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CoMed Inc. - CoMedAI",
-  description: "CoMedAI: Our flagship product, CoMedAI, is an AI-powered Brain MRI analysis software that enhances diagnostic accuracy and streamlines workflows for radiologists and healthcare providers.",
+  title: "CoMed Inc. - CoMedAI 2.0",
+  description: "CoMedAI 2.0: Building upon the foundation of CoMedAI, this upcoming version will incorporate automated image processing and feature extraction capabilities, further increasing efficiency and accessibility.",
 };
 
 export default function RootLayout({

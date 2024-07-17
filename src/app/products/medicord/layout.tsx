@@ -5,8 +5,8 @@ import "../../globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CoMed Inc. - CoMedAI",
-  description: "CoMedAI: Our flagship product, CoMedAI, is an AI-powered Brain MRI analysis software that enhances diagnostic accuracy and streamlines workflows for radiologists and healthcare providers.",
+  title: "CoMed Inc. - Medicord",
+  description: "Medicord: This innovative community and collaboration platform connects patients, doctors, and hospitals, fostering continuous engagement, support, and knowledge sharing within a secure online environment.",
 };
 
 export default function RootLayout({
