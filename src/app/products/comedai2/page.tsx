@@ -18,6 +18,7 @@ export default function CoMedAI()
         <div className="flex flex-col md:flex-row justify-center items-center gap-16">
           <div className="text-left flex flex-row gap-32 py-32 h-full">
             {`hi, buddy;)`}
+            {` it seems you lost`}
           </div>
         </div>
       </main>

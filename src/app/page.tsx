@@ -8,7 +8,7 @@ import Footer from './components/footer';
 import HeaderPrimary from './components/header.primary';
 import { Analytics } from '@vercel/analytics/react';
 
-import blackLogo from '../app/assets/imgs/CoMed_Inc_black.png';
+import blackLogo from '../app/assets/logos/CoMed_Inc_black.png';
 
 import { initializeApp } from 'firebase/app';
 import { getFirestore, collection, addDoc } from 'firebase/firestore';

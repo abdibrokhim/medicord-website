@@ -5,8 +5,8 @@ import Image from "next/image";
 import { useState } from 'react';
 
 import ProductsSheet from './products.sheet';
-import whiteLogo from '../assets/imgs/CoMed_Inc_white.png';
-import blackLogo from '../assets/imgs/CoMed_Inc_black.png';
+import whiteLogo from '../assets/logos/CoMed_Inc_white.png';
+import blackLogo from '../assets/logos/CoMed_Inc_black.png';
 
 export default function HeaderPrimary() {
   const [showProducts, setShowProducts] = useState(false);

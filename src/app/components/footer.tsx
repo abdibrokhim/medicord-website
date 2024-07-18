@@ -1,8 +1,8 @@
 import '../globals.css';
 import Image from "next/image"; 
 
-import whiteLogo from '../assets/imgs/CoMed_Inc_white.png';
-import blackLogo from '../assets/imgs/CoMed_Inc_black.png';
+import whiteLogo from '../assets/logos/CoMed_Inc_white.png';
+import blackLogo from '../assets/logos/CoMed_Inc_black.png';
 
 export default function Footer() {
   return (
