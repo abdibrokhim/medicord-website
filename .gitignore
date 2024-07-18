@@ -37,4 +37,4 @@ next-env.d.ts
 
 
 
-firebase.options.tsx
+firebase.config.tsx
