@@ -1,12 +1,12 @@
 import Image from "next/image"; 
 import './globals.css';
 
-import Footer from './components/footer';
-import HeaderPrimary from './components/header.primary';
+import Footer from '../components/footer';
+import HeaderPrimary from '../components/header.primary';
 import { Analytics } from '@vercel/analytics/react';
 
 
-export default function Home() 
+export default function V1() 
 
 { 
   return (
