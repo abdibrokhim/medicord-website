@@ -211,7 +211,7 @@ export default function CoMedAI() {
               </p>
                 <YouTube videoId="XA4RpgqZUnU" opts={opts} onReady={onPlayerReady} />
                 <p className="text-[24px] mt-16 px-6 text-black">
-                And it's Open Source
+                And it&apos;s Open Source
               </p>
                 <a href="https://rebrand.ly/comedai-learn-more" target="_blank" 
                   className="cta-top flex gap-2 mt-4 items-center justify-center rounded-md hover:opacity-80 active:opacity-60 active:scale-95 transition-all text-white text-[18px] px-6 h-[44px] shrink-0 grow-0 btn bg-[#1e1e1e]">
