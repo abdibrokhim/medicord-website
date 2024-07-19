@@ -1,5 +1,5 @@
 import Image from "next/image"; 
-import './globals.css';
+import '../globals.css';
 
 import Footer from '../components/footer';
 import HeaderPrimary from '../components/header.primary';
@@ -13,7 +13,7 @@ export default function V1()
 
     <div className="flex flex-col w-full">
       <Analytics />
-      <HeaderPrimary/>
+      {/* <HeaderPrimary/> */}
       <main className="flex-1 flex flex-col gap-16 px-4 md:px-0 py-24 m-auto w-full md:w-4/5 2xl:w-3/5">
         <div className="flex flex-col md:flex-row justify-center items-center gap-16">
           <div className="text-center flex flex-col gap-4 py-32 h-full">
@@ -137,7 +137,7 @@ export default function V1()
           </div>
         </div>
       </main>
-    <Footer/>
+    {/* <Footer/> */}
     </div> 
   ); 
 }
