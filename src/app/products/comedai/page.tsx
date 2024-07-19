@@ -132,7 +132,7 @@ export default function CoMedAI() {
                 />
               </div>
             </div>
-            <a href="https://rebrand.ly/comedai" target="_blank" 
+            <a href="https://rebrand.ly/comedai-figma" target="_blank" 
               className="cta-top flex gap-2 mt-8 items-center justify-center rounded-md hover:opacity-80 active:opacity-60 active:scale-95 transition-all text-white text-[18px] px-6 h-[44px] shrink-0 grow-0 btn bg-[#1e1e1e]">
               <p className="whitespace-nowrap">
                 Discover design

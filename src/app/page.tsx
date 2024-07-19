@@ -23,9 +23,17 @@ export default function Home() {
   const [email, setEmail] = useState('');
   const [loading, setLoading] = useState(false);
   const [showMessage, setShowMessage] = useState(false);
+  
+  function isValidEmail(email: string): boolean {
+    if (!email) return false;
+
+    // Regular expression for basic email validation
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailRegex.test(email);
+  }
 
   const handleGetUpdates = async () => {
-    if (!email) return;
+    if (!isValidEmail(email)) return;
 
     setLoading(true);
 
@@ -76,7 +84,7 @@ export default function Home() {
               </div>
               <div className="flex flex-row justify-center items-center gap-2 mt-16">
                 <input
-                  type="text"
+                  type="email"
                   placeholder="Enter your email"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
