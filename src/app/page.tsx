@@ -82,7 +82,7 @@ export default function Home() {
               <div>
                 {`hi, buddy;)`}
               </div>
-              <div className="flex flex-row justify-center items-center gap-2 mt-16">
+              <div className="flex flex-col lg:flex-row justify-center items-center gap-2 mt-16">
                 <input
                   type="email"
                   placeholder="Enter your email"
