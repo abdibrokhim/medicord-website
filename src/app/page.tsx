@@ -75,8 +75,7 @@ export default function Home() {
                 />
                 <p className="mt-2">CoMed Inc. is a software development company for healthcare industry.</p>
                 <p>In Uzbekistan 85% of deaths are caused because of non communicable disease. Why? Because we have only 15% of hospitals that are equipped with MRIs. We like professionals and equipment, especially in the countryside, and this process takes a lot of time, especially for people who live in rural areas because they don&spo;t have access to facilities and professionals in city areas. And this process is excessive bureaucracy and we have faulty diagnosis because we rely on human factors.</p>
-                <p>Introducing CoMed, an AI powered platform to generate, manage and report Brain MRI observations. We are building one ecosystem for both doctors and their patients. We are moving forward to make MRI diagnosis easier, faster, and cheaper. And last but not least, we are NOT replacing doctors, however building tool for doctors to help their patients.</p>
-                <p>CoMed, an advanced AI-powered software for Doctors to help their Patients.</p>
+                <p>Introducing CoMedAI, an AI powered platform to generate, manage and report Brain MRI observations. We are building one ecosystem for both doctors and their patients. We are moving forward to make MRI diagnosis easier, faster, and cheaper. And last but not least, we are NOT replacing doctors, however building tool for doctors to help their patients.</p>
               </span>
             </div>
             <div className="flex flex-col justify-center md:w-1/2 w-full">
