@@ -14,7 +14,6 @@ export default function Investors() {
         <div className="flex flex-col md:flex-row justify-center items-center gap-16">
           <div className="text-left flex md:flex-row flex-col gap-32 py-32 h-full">
             <p>Learn more <a href="https://docs.google.com/document/d/1BUTYwI5xuNIV0FWmmQNmMErs6XXK30kDKoojktSwoJU/edit?usp=sharing" target="_blank" className="underline">here</a></p>
-            <p>Business plan <a href="https://docs.google.com/document/d/14TLvDCRngngKVOAUVtyN1rM72EuXAzRddkghH7VxSUs/edit?usp=sharing" target="_blank" className="underline">here</a></p>
           </div>
         </div>
       </main>
