@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CoMed
 
-## Getting Started
+CoMed is an AI platform transforming Brain MRI diagnostics to be easier, faster, and more accessible, especially in underserved rural areas. By integrating advanced AI into hospital workflows, we boost diagnostic accuracy from 84% to 95% and reduce waiting times from days to 15–30 minutes. Targeting hospitals and clinics lacking advanced diagnostics and radiologists, we aim to bridge critical healthcare gaps.
 
-First, run the development server:
+We provide affordable AI tools at $220 per month, enhancing accuracy, & reducing wait times. Our long-term goal is to make advanced diagnostics universally accessible, fostering a global healthcare ecosystem that empowers medical professionals and patients alike.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+We've developed a functional prototype, secured contracts with over 1,400 hospitals, accessed 3 million medical records for AI training. Received support from Amazon ($10,000), Microsoft ($150,000), and OpenAI ($2,500).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Learn more about CoMed at [CoMed AI](https://github.com/abdibrokhim/comed-web)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🙏 Support
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+If you wish to support further development and feel extra awesome, you can [Donate](https://buymeacoffee.com/abdibrokhim/), become a [Patron](https://www.patreon.com/abdibrokhim) or [Follow on LinkedIn](https://www.linkedin.com/in/abdibrokhim/).
 
-## Learn More
+## 🦄 Want to learn build stuff from coool guy?
 
-To learn more about Next.js, take a look at the following resources:
+Here's my topmate profile https://topmate.io/join/abdibrokhim book session with me. it's Absolutely FREE! 🎉 (free services for everyone , i want to help as much as people possible, so far i could help 200K developers, let's goooooo, [imcook.in](https://imcook.in))
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact Information
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Should you have any questions, please feel free to reach out to the Co-founder & CEO & CTO, [Ibrohim Abdivokhidov](https://www.linkedin.com/in/abdibrokhim/), at abdibrokhim@gmail.com.

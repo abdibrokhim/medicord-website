@@ -13,7 +13,7 @@ export default function Investors() {
       <main className="flex-1 flex flex-col gap-16 px-4 md:px-0 py-24 m-auto w-full md:w-4/5 2xl:w-3/5">
         <div className="flex flex-col md:flex-row justify-center items-center gap-16">
           <div className="text-left flex md:flex-row flex-col gap-32 py-32 h-full">
-            <p>Learn more <a href="https://docs.google.com/document/d/1BUTYwI5xuNIV0FWmmQNmMErs6XXK30kDKoojktSwoJU/edit?usp=sharing" target="_blank" className="underline">here</a></p>
+            <p>Learn more <a href="https://rebrand.ly/comedroadmap" target="_blank" className="underline">here</a></p>
           </div>
         </div>
       </main>

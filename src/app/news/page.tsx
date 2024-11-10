@@ -14,6 +14,7 @@ export default function News() {
         <div className="flex flex-col md:flex-row justify-center items-center gap-16">
           <div className="text-left flex md:flex-row flex-col gap-32 py-32 h-full">
             <p>Stay tuned! Follow us on <a href="https://linkedin.com/company/comedai" target="_blank" className="underline">LinkedIn</a></p>
+            <p>Join our community <a href="https://discord.gg/nVtmDUN2sR" target="_blank" className="underline">Open Community</a> on discord</p>
           </div>
         </div>
       </main>

@@ -18,7 +18,7 @@ export default function ProductsSheet({ toggleProducts }: ProductsSheetProps) {
         &times;
       </button>
       <div className="flex md:flex-row flex-col gap-32 items-center justify-center space-x-4">
-        <a className="btn text-gray-700 text-md font-bold" href="https://comed-webapp.vercel.app/">CoMedAI</a>
+        <a className="btn text-gray-700 text-md font-bold" href="https://comed-webapp.vercel.app/">CoMed AI 2.0 is out!</a>
         {/* <a className="btn text-gray-700 text-md font-bold" href="/products/comedai2">CoMedAI 2.0</a>
         <a className="btn text-gray-700 text-md font-bold" href="/products/medicord">Medicord</a> */}
       </div>
