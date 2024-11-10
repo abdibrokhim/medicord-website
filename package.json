@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/swc-darwin-arm64": "^15.0.3",
     "@nextui-org/dropdown": "^2.1.26",
     "@nextui-org/system": "^2.2.2",
     "@nextui-org/theme": "^2.2.6",
